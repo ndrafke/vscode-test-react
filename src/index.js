@@ -4,8 +4,7 @@ import './style.css';
 
 const Buttons = (props) => (
     <div className="button-box">
-    <button onClick={props.click} >CLICK</button>   
-     
+    <button onClick={props.click} >CLICK</button>    
     </div>
 )
 class App extends React.Component{
