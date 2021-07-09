@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '/Users/nickdrafke/projects/my-app/src/style.css';
+import './style.css';
 
 const Buttons = (props) => (
     <div className="button-box">
